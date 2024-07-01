@@ -1,3 +1,3 @@
-export function calculateInterestRate(Principle, Rate, Time){
-    return (Principle* Rate * Time)
+export function calculateInterestRate(Principal, Rate, Time){
+    return (Principal* Rate * Time)
 }
